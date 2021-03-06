@@ -1,7 +1,14 @@
 body {
-    margin : 0;
-    padding : 0;
+    margin: 0;
+    padding: 0;
 }
+
+h1,
+h2,
+h3 {
+    font-family: 'Pacifico', cursive;
+}
+
 .row-content {
     padding-top: 2em;
 }
@@ -12,4 +19,10 @@ body {
 
 .footer-div {
     border-style: solid;
+}
+
+@media only screen and (max-width: 750px) {
+    h1 {
+        font-size: 3rem;
+    }
 }
