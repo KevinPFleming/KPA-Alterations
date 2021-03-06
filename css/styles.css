@@ -1,0 +1,15 @@
+body {
+    margin : 0;
+    padding : 0;
+}
+.row-content {
+    padding-top: 2em;
+}
+
+.site-footer {
+    margin-top: 2em;
+}
+
+.footer-div {
+    border-style: solid;
+}
