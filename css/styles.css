@@ -11,6 +11,7 @@ h3 {
 
 h5 {
     font-weight: 900;
+    color: blue;
 }
 
 .row-content {
@@ -42,5 +43,10 @@ h5 {
 }
 
 .btn-link {
+    font-weight: 900;
+}
+
+address {
+    font-size: xx-large;
     font-weight: 900;
 }
