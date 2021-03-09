@@ -28,7 +28,7 @@ h5 {
 
 .footer-div {
     border-style: solid;
-    background-color: rgb(0, 0, 0, 0.2);
+    background-color: rgb(0, 0, 0, 0.7);
 }
 
 @media only screen and (max-width: 750px) {
@@ -39,4 +39,8 @@ h5 {
 
 .shade-div {
     background-color: rgb(0, 0, 0, 0.2);
+}
+
+.btn-link {
+    font-weight: 900;
 }
