@@ -50,3 +50,13 @@ address {
     font-size: xx-large;
     font-weight: 900;
 }
+
+.carousel-image {
+    height: 85vh;
+    width: 40vw;
+}
+
+.top-image {
+    height: 20vh;
+    width:  10vw;
+}
