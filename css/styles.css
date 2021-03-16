@@ -52,11 +52,25 @@ address {
 }
 
 .carousel-image {
-    height: 85vh;
-    width: 40vw;
+    display: block;
+    height: 75vh;
+    width: 45vw;
+    margin: auto;
+}
+
+
+@media only screen and (max-width: 750px) {
+    .carousel-image {
+        height: 50%;
+    }
 }
 
 .top-image {
     height: 20vh;
     width:  10vw;
+}
+
+.product-img {
+    margin: auto;
+    display: flex;
 }
