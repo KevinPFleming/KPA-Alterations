@@ -58,6 +58,7 @@ li {
 .footer-div {
     border-style: solid;
     background-color: rgb(0, 0, 0, 0.7);
+    border: solid yellow;
 }
 
 @media only screen and (max-width: 750px) {
@@ -102,7 +103,7 @@ address {
 .product-img {
     margin: auto;
     display: flex;
-    border: solid black;
+    border: solid yellow;
 }
 
 iframe {
@@ -126,4 +127,8 @@ iframe {
 
 .card {
     width: 100%;
+}
+
+.media-body, p {
+font-size: large;
 }
