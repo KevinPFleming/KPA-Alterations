@@ -41,6 +41,14 @@ p {
     font-weight: 900;
 }
 
+.underline {
+    border-bottom: 3px solid ;
+}
+
+.outline {
+    border: 2px solid black;
+}
+
 .row-content {
     padding-top: 2em;
 }
@@ -104,6 +112,12 @@ address {
     margin: auto;
     display: flex;
     border: solid yellow;
+}
+
+.test-img {
+    height: 20em;
+    width: 90%;
+    margin: auto;
 }
 
 iframe {
